@@ -1,0 +1,18 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "reactJS intro",
+  "main": "\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dintro to react\u001b[\u001b[B\u001b[C\u001b[C\u001b[DJS",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b["
+  },
+  "keywords": [
+    "reactJS"
+  ],
+  "author": "Chandni Patel",
+  "license": "MIT"
+}
